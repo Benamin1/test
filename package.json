@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "",
-  "master": "serwer.js",
+  "main": "serwer.js",
   "dependencies": {
     "express": "^4.17.1"
   },
